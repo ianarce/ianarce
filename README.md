@@ -9,17 +9,14 @@
 <br/><br/>
 
 <img
-  src="https://docs.oracle.com/javase/jp/8/docs/technotes/guides/deploy/img/java8_splash.gif"
+  src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGkxNXdnb2Z1bWwyNTUzbjI0dXZuNjZ3dml4M2MybTRvcmlsdGtmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif"
   alt="Java splash — Oracle Deployment Guide"
   width="280"
 />
 
 <br/>
 
-<img 
-    src="https://miro.medium.com/1*MmlUmaa0oRxkQXzrKghdMQ.gif"
-  width="280"
-/>
+
 ---
 
 ### Backend Developer
