@@ -18,6 +18,7 @@
 
 <img 
     src="https://miro.medium.com/1*MmlUmaa0oRxkQXzrKghdMQ.gif"
+  width="280"
 />
 ---
 
