@@ -16,10 +16,7 @@
 
 <br/>
 
-<sub>
-Fuente del GIF:
-[Java SE 8 — Application Startup / User Experience](https://docs.oracle.com/javase/jp/8/docs/technotes/guides/deploy/deploy_user_experience.html)
-</sub>
+
 
 ---
 
